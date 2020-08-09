@@ -60,6 +60,7 @@ $('ul.navigation').singlePageNav({offset: $('#header').outerHeight(), filter: ':
 						</a>
 					</li>
 				{% endfor %}
+				{#
 				{% if config.plugins.login.enabled and grav.user.username %}
 					{% include 'partials/login-status.html.twig' %}
 				{% else %}
@@ -70,6 +71,7 @@ $('ul.navigation').singlePageNav({offset: $('#header').outerHeight(), filter: ':
 						</a>
 					</li>
 				{% endif %}
+				#}
 			</ul>
 		{% else %}
 			{{ parent() }}
