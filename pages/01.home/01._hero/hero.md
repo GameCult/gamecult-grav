@@ -4,8 +4,8 @@ anchors:
     active: true
 tagtitle: h2
 menu: Top
-hero_classes: 'parallax text-light hero-fullscreen overlay-dark-gradient'
-hero_overlay: true
+hero_classes: 'parallax text-dark hero-fullscreen'
+hero_overlay: false
 hero_showsearch: false
 hero_image: abstract.jpg
 ---
