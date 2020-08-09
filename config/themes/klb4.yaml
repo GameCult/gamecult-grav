@@ -15,7 +15,7 @@ header-showexternallinks: true
 header-externallinks:
   -
     icon: 'fa fa-github'
-    text: 'GitHub Test'
+    text: 'GitHub'
     url: 'https://github.com/gamecult'
     target: true
 analytics_id: null
