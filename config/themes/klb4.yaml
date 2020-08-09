@@ -14,15 +14,15 @@ spectre:
 header-showexternallinks: true
 header-externallinks:
   -
+    icon: 'fa fa-newspaper-o'
+    text: Blog
+    url: /blog
+    target: false
+  -
     icon: 'fa fa-github'
-    text: 'GitHub Test'
+    text: GitHub
     url: 'https://github.com/gamecult'
     target: true
-  -
-    text: 'Blog'
-    url: '/blog'
-    icon: 'fa fa-user-plus'
-    target: false
 analytics_id: null
 custom_logo:
   'user/themes/klb4/images/logo/Gamecult logo.svg':
