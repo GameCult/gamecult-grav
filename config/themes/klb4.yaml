@@ -18,6 +18,11 @@ header-externallinks:
     text: 'GitHub Test'
     url: 'https://github.com/gamecult'
     target: true
+  -
+    text: 'Blog'
+    url: '/blog'
+    icon: 'fa fa-user-plus'
+    target: false
 analytics_id: null
 custom_logo:
   'user/themes/klb4/images/logo/Gamecult logo.svg':
