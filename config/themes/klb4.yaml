@@ -1,0 +1,33 @@
+enabled: true
+production-mode: true
+grid-size: grid-xl
+layout-list-blog: true
+header-fixed: true
+header-animated: true
+header-dark: false
+header-transparent: false
+sticky-footer: true
+blog-page: /blog
+spectre:
+  exp: false
+  icons: false
+header-showexternallinks: true
+header-externallinks:
+  -
+    icon: 'fa fa-github'
+    text: 'GitHub Test'
+    url: 'https://github.com/gamecult'
+    target: true
+analytics_id: null
+custom_logo:
+  'user/themes/klb4/images/logo/Gamecult logo.svg':
+    name: 'Gamecult logo.svg'
+    type: image/svg+xml
+    size: 7149
+    path: 'user/themes/klb4/images/logo/Gamecult logo.svg'
+custom_logo_mobile:
+  'user/themes/klb4/images/logo/Gamecult logo.svg':
+    name: 'Gamecult logo.svg'
+    type: image/svg+xml
+    size: 7149
+    path: 'user/themes/klb4/images/logo/Gamecult logo.svg'

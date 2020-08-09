@@ -1,0 +1,40 @@
+enabled: true
+cdn_enabled: false
+back_to_top_button: true
+fluid_container: false
+favicon: null
+navbar:
+  image: null
+  icon: null
+  style: light
+  override_page_style: true
+  display_site_name: true
+  dropdown: true
+  sticky: true
+sidebar:
+  enabled: true
+  align: left
+  twitter:
+    enabled: false
+    user: twitter
+    height: 600
+    theme: light
+  about:
+    enabled: false
+    title: 'About me'
+    content: 'Some text about you...'
+    page: null
+item:
+  featured_image: true
+  text_align: justify
+  show_prev_next: true
+  related_pages: true
+  category: category
+  tag: tag
+comments:
+  enabled: false
+  disqus_shortname: null
+footer:
+  style: light
+  text: 'Bootstrap Blog is <i class="fas fa-code"></i> with <i class="fas fa-heart"></i> by <a href="http://ayozehd.com">Ayoze Hernández Díaz</a>'
+  legal: null
