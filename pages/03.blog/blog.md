@@ -1,12 +1,12 @@
 ---
-title: Manuals
+title: Blog
 media_order: bg_hero_klb4.jpg
 body_classes: 'title-h1h2 header-dark header-transparent'
 anchors:
     active: true
 tagtitle: h2
 hero_overlay: true
-hero_showsearch: true
+hero_showsearch: false
 show_sidebar: false
 show_searchsidebar: false
 show_breadcrumbs: true
