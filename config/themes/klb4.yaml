@@ -11,7 +11,7 @@ blog-page: /blog
 spectre:
   exp: false
   icons: false
-header-showexternallinks: false
+header-showexternallinks: true
 header-externallinks:
   -
     icon: 'fa fa-newspaper-o'
