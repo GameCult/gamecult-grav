@@ -6,12 +6,12 @@ tagtitle: h2
 menu: Top
 hero_classes: 'parallax text-light hero-fullscreen'
 hero_overlay: true
-hero_showsearch: true
-hero_image: header.jpg
+hero_showsearch: false
+hero_image: abstract.jpg
 ---
 
-# Hello how can we help you?
-## search for manuals, faqs, contents...
+# The world's first distributed Open Source game studio
+## Join us as we revolutionize game development!
 
 
 
