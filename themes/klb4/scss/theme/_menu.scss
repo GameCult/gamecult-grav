@@ -100,7 +100,7 @@
     align-content: space-between;
     transition: all 0.3s linear;
     &:hover{
-      background: rgba(0, 0, 0, 0.2);
+      background: $primary-color;
       border-radius: 4px;
     }
     i.fa{
