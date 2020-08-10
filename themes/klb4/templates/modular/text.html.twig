@@ -1,12 +1,12 @@
 {% set grid_size = theme_var('grid-size') %}
 {% set image = page.find('/images').media[page.header.image] ?: page.media.images|first %}
 
-<ol>
-	<li>{{page.find('/images').title}}</li>
-	<li>{{ page.find('/images').media.images|length }}</li>
-</ol>
 
 <section class="section modular-text {{ page.header.class}} bg-gray">
+	<ol>
+		<li>{{page.find('/images').title}}</li>
+		<li>{{ page.find('/images').media.images|length }}</li>
+	</ol>
     <section class="container {{ grid_size }}">
         <div class="columns {{ page.header.image_align|default('align-right') }}">
             {% if image %}
