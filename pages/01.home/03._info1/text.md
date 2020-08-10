@@ -1,6 +1,6 @@
 ---
 title: 'Homepage Info 1'
-media_order: Placeholder.png
+image: 'placeholder16-9.png'
 image_align: left
 anchors:
     active: true
