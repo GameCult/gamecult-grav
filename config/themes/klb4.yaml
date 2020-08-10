@@ -24,7 +24,7 @@ header-externallinks:
     url: 'https://github.com/gamecult'
     target: true
   -
-    icon: discord
+    icon: 'fa fa-discord'
     text: Discord
     url: 'https://discord.gg/trbteNj'
     target: true
