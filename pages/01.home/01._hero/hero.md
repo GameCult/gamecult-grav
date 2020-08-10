@@ -11,10 +11,10 @@ hero_image: abstract-logo.jpg
 ---
 
 # We are the world's first distributed Open Source game studio
- 
- 
- 
- 
+# #
+# #
+# #
+# #
 ## Join us as we revolutionize game development!
 
 
