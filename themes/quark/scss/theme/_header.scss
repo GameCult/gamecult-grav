@@ -22,7 +22,7 @@
     background: $header-color-dark;
     color: $light-color;
     a {
-      color: rgba($light-color, 0.7) !important;
+      color: $light-color !important;
     }
     a.active {
       color: $light-color !important;
