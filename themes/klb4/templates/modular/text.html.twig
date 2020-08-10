@@ -1,9 +1,5 @@
 {% set grid_size = theme_var('grid-size') %}
-{% if page.header.image %}
-	{% set image = page.find('/images').media[page.header.image] %}
-{% else %}
-	{% set image = page.media.images|first %}
-{% endif %}
+{% set image = page.find('/images').media[page.header.image] ?: page.media.images|first %}
 
 <section class="section modular-text {{ page.header.class}} bg-gray">
     <section class="container {{ grid_size }}">
