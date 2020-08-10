@@ -242,7 +242,7 @@ table {
   }
   tbody {
     tr:nth-of-type(odd) {
-      background: $bg-color;
+      background: $light-color;
     }
     tr {
       &.active {
