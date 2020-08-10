@@ -23,6 +23,11 @@ header-externallinks:
     text: GitHub
     url: 'https://github.com/gamecult'
     target: true
+  -
+    icon: Discord
+    text: null
+    url: null
+    target: true
 analytics_id: null
 custom_logo:
   'user/themes/klb4/images/logo/Gamecult logo.svg':
