@@ -10,7 +10,7 @@ hero_showsearch: false
 hero_image: abstract.jpg
 ---
 
-# The world's first distributed Open Source game studio
+# We are the world's first distributed Open Source game studio
 ## Join us as we revolutionize game development!
 
 
