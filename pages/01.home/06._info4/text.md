@@ -1,14 +1,12 @@
 ---
 title: 'Homepage Info 4'
-image: '/images/placeholder16-9.png'
+media.images: '/images/placeholder16-9.png'
 image_align: right
 anchors:
     active: true
 tagtitle: h2
 menu: 'Iconoclasts'
 ---
-
-![Placeholder Image](/images/placeholder16-9.png?classes=float-right,shadow)
 
 ## **Iconoclasts**
 
