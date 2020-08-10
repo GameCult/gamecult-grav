@@ -7,36 +7,26 @@ menu: Highlights
 class: standard
 features:
     -
-        icon: 'fa fa-desktop'
-        header: Systems
-        text: 'Find project and system information'
-        url: 'https://github.com/lauroguedes/grav-theme-klb4'
+        icon: 'fa fa-github'
+        header: Open Source 
+        text: 'We believe information wants to be free'
+        url: 'https://github.com/gamecult'
         target: true
     -
-        icon: 'fa fa-question-circle'
-        header: FAQs
-        text: 'Find information about frequently asked questions'
+        icon: 'fa fa-usd'
+        header: Non-profit
+        text: 'We prioritize artistic integrity over selling out'
         target: false
     -
         icon: 'fa fa-clipboard'
-        header: Manuals
-        text: 'Learn all about our products and services through the manuals'
-        url: /manuals
-        target: false
+        header: Transparent
+        text: 'We use Open Collective for public budgeting and invoicing'
+        url: 'https://opencollective.com/'
+        target: true
     -
-        icon: 'fa fa-bullhorn'
-        header: Marketing
-        text: 'Access marketing kits and use to advertise your business'
-        target: false
-    -
-        icon: 'fa fa-gavel'
-        header: Policies
-        text: 'Learn all about our internal and external policies'
-        target: false
-    -
-        icon: 'fa fa-book'
-        header: 'Knowledgebase Tutorials'
-        text: 'Learn how to use and create content in Klb4'
+        icon: 'fa fa-line-chart'
+        header: Bounty System
+        text: 'We’ll pay you for helping out'
         target: false
 ---
 
