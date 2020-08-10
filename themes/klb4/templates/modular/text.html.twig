@@ -1,6 +1,6 @@
 {% set grid_size = theme_var('grid-size') %}
-{% if page.image %}
-	{% set image = page.find('/images').media[page.image] %}
+{% if header_var('image', [page, text]) %}
+	{% set image = page.find('/images').media[header_var('image', [page, text])] %}
 {% else %}
 	{% set image = page.media.images|first %}
 {% endif %}
