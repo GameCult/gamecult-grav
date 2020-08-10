@@ -4,7 +4,7 @@ grid-size: grid-xl
 layout-list-blog: true
 header-fixed: true
 header-animated: true
-header-dark: false
+header-dark: true
 header-transparent: false
 sticky-footer: true
 blog-page: /blog
