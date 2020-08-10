@@ -4,7 +4,7 @@ media_order: Placeholder.png
 image_align: left
 anchors:
     active: true
-tagtitle: h2
+tagtitle: h1
 menu: 'Democratizing Gamedev'
 ---
 
