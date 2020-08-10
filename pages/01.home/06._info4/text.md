@@ -1,6 +1,6 @@
 ---
 title: 'Homepage Info 4'
-media_order: '/images/placeholder16-9.png'
+image: '/images/placeholder16-9.png'
 image_align: right
 anchors:
     active: true
