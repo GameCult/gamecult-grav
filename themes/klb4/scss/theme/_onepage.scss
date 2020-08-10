@@ -33,7 +33,7 @@ body::-webkit-scrollbar-thumb {
     .frame-box {
       margin: 3rem (-1rem - $layout-spacing) 3rem;
       padding: 1rem 1rem;
-      background: $light-color;
+      background: $bg-color;
       box-shadow: 0 0 75px 0 rgba($dark-color, 0.1);
     }
   }
