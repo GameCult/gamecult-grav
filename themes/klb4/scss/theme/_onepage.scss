@@ -156,7 +156,7 @@ body::-webkit-scrollbar-thumb {
       border: $border-width solid $gray-color-light;
       background-color: $light-color;
       border-radius: 4px;
-	  box-shadow: 3px 3px 4px 0px #00000030;
+	  box-shadow: 3px 3px 4px 0px rgba(0, 0, 0, 0.3);
 
       &:hover {
         opacity: .8;
