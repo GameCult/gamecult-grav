@@ -7,7 +7,7 @@ menu: Top
 hero_classes: 'parallax text-dark hero-fullscreen'
 hero_overlay: false
 hero_showsearch: false
-hero_image: abstract.jpg
+hero_image: abstract-logo.jpg
 ---
 
 # We are the world's first distributed Open Source game studio
