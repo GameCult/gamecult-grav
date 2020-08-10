@@ -81,9 +81,6 @@ figure {
 }
 img {
   max-width: 100%;
-  &[src$=".png"] {
-    border: none !important;
-  }
 }
 
 
