@@ -23,15 +23,15 @@
     color: $light-color;
 
     a {
-      color: rgba($light-color, 0.8);
+      color: rgba($light-color, 0.9) !important;
     }
 
     a.active {
-      color: $light-color;
+      color: $light-color !important;
     }
 
     .dropmenu ul ul a {
-      color: $dark-color;
+      color: $dark-color !important;
     }
 
     .logo svg path {
