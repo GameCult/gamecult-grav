@@ -1,6 +1,6 @@
 ---
 title: 'Homepage Info 4'
-image: 'placeholder16-9.png'
+image: 'airlock-comp.jpg'
 image_align: right
 anchors:
     active: true
