@@ -1,6 +1,6 @@
 ---
 title: 'Homepage Info 1'
-image: 'placeholder16-9.png'
+image: 'bountyhunter-previs'
 image_align: left
 anchors:
     active: true
