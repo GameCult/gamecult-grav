@@ -6,7 +6,6 @@ anchors:
     active: true
 tagtitle: h2
 menu: Iconoclasts
-image: airlock-comp.jpg
 ---
 
 # **The New Hotness**
