@@ -1,6 +1,6 @@
 ---
 title: 'Homepage Info 2'
-image: 'placeholder16-9.png'
+image: 'lavacave.jpg'
 image_align: right
 anchors:
     active: true

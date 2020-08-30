@@ -1,6 +1,6 @@
 ---
 title: 'Homepage Info 3'
-image: 'placeholder16-9.png'
+image: 'stonks.jpg'
 image_align: left
 anchors:
     active: true

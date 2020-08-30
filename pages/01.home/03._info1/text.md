@@ -5,7 +5,7 @@ anchors:
     active: true
 tagtitle: h2
 menu: 'Democratizing Gamedev'
-image: bountyhunter-previs.jpg
+image: bounty.jpg
 ---
 
 # **Democratizing Gamedev**
