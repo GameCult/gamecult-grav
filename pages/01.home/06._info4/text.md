@@ -1,6 +1,6 @@
 ---
 title: 'Homepage Info 4'
-media_order: debris.jpg
+image: debris.jpg
 image_align: right
 anchors:
     active: true
