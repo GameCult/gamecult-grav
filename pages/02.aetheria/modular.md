@@ -1,6 +1,6 @@
 ---
 title: Aetheria
-body_classes: 'modular title-h1h2 header-dark header-transparent'
+body_classes: 'title-h1h2 header-dark header-transparent'
 anchors:
     active: false
 tagtitle: h2
