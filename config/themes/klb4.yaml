@@ -19,6 +19,11 @@ header-externallinks:
     url: /blog
     target: false
   -
+    icon: 'fa fa-rocket'
+    text: Aetheria
+    url: /aetheria
+    target: true
+  -
     icon: 'fa fa-github'
     text: GitHub
     url: 'https://github.com/gamecult'
