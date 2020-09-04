@@ -22,7 +22,7 @@ header-externallinks:
     icon: 'fa fa-rocket'
     text: Aetheria
     url: /aetheria
-    target: true
+    target: false
   -
     icon: 'fa fa-github'
     text: GitHub
