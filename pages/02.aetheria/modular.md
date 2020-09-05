@@ -6,5 +6,7 @@ anchors:
 tagtitle: h2
 onpage_menu: false
 menu: Aetheria
+content:
+    items: '@self.modular'
 ---
 
