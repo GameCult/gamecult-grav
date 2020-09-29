@@ -23,9 +23,9 @@ features:
         icon: 'fa fa-clipboard'
         iconcolor: '#454d5d'
         header: Transparent
-        text: 'We use Open Collective for public budgeting and invoicing'
-        url: 'https://opencollective.com/'
-        target: true
+        text: 'Our Labor Platform lets anyone see where the money is going'
+        url: /labor-platform
+        target: false
     -
         icon: 'fa fa-line-chart'
         iconcolor: '#454d5d'
