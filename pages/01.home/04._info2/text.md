@@ -1,11 +1,11 @@
 ---
-title: 'Homepage Info 2'
-image: 'lavacave.jpg'
+title: 'A Place For Everyone'
 image_align: right
 anchors:
     active: true
 tagtitle: h2
 menu: 'A Place For Everyone'
+image: lavacave.jpg
 ---
 
 # **A Place For Everyone**
