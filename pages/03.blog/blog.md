@@ -5,7 +5,7 @@ body_classes: 'title-h1h2 header-dark header-transparent'
 anchors:
     active: true
 tagtitle: h2
-hero_classes: 'parallax text-dark'
+hero_classes: 'parallax text-light'
 hero_overlay: false
 hero_showsearch: false
 show_sidebar: false
