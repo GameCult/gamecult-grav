@@ -6,7 +6,7 @@ anchors:
     active: true
 tagtitle: h2
 hero_classes: 'parallax text-dark'
-hero_overlay: true
+hero_overlay: false
 hero_showsearch: false
 show_sidebar: false
 show_searchsidebar: false
