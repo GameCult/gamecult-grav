@@ -22,7 +22,7 @@ header-externallinks:
     icon: 'fa fa-usd'
     text: GCLP
     url: /labor-platform
-    target: true
+    target: false
   -
     icon: 'fa fa-rocket'
     text: Aetheria
