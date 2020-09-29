@@ -1,11 +1,11 @@
 ---
-title: 'Homepage Info 3'
-image: 'stonks.jpg'
+title: 'Games as a Service'
 image_align: left
 anchors:
     active: true
 tagtitle: h2
 menu: 'Games as a Service'
+image: stonks.jpg
 ---
 
 # **Games as a Service**
