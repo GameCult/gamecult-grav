@@ -1,11 +1,11 @@
 ---
-title: 'Homepage Info 4'
-image: debris.jpg
+title: 'The New Hotness'
 image_align: right
 anchors:
     active: true
 tagtitle: h2
 menu: Iconoclasts
+image: debris.jpg
 ---
 
 # **The New Hotness**
