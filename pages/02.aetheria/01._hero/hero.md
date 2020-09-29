@@ -1,5 +1,6 @@
 ---
 title: 'Aetheria Hero'
+body_classes: 'title-h1h2 header-dark header-transparent'
 anchors:
     active: true
 tagtitle: h2
