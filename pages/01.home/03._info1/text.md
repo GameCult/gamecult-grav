@@ -1,5 +1,5 @@
 ---
-title: 'Homepage Info 1'
+title: 'Democratizing Gamedev'
 image_align: left
 anchors:
     active: true
