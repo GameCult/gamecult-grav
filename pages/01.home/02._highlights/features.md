@@ -23,7 +23,7 @@ features:
         icon: 'fa fa-clipboard'
         iconcolor: '#454d5d'
         header: Transparent
-        text: 'Our Labor Platform lets anyone see where the money is going'
+        text: 'Our Labor Platform lets everyone see where the money is going'
         url: /labor-platform
         target: false
     -
