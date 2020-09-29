@@ -1,6 +1,6 @@
 ---
 title: Blog
-media_order: bg_hero_klb4.jpg
+media_order: pexels-markus-spiske-193349.jpg
 body_classes: 'title-h1h2 header-dark header-transparent'
 anchors:
     active: true
