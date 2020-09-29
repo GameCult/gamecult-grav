@@ -22,5 +22,5 @@ content:
     url_taxonomy_filters: true
 ---
 
-# Manuals
-## Learn in a simple and direct way to use our systems
+# GameCult Blog
+## Find out what we're up to!
