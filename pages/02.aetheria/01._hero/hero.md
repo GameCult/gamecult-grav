@@ -12,7 +12,7 @@ hero_image: gasgiants.jpg
 ---
 
 # Aetheria
-## An MMO Unlike Any Other
+## L’appel du Vide
 
 
 
