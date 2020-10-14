@@ -1,5 +1,5 @@
 ---
-title: 'Aetheria Info 1'
+title: 'Total Catastrophe'
 image_align: left
 anchors:
     active: true
@@ -8,6 +8,6 @@ menu: 'Play Your Way'
 image: placeholder16-9.png
 ---
 
-# Play Your Way
+# Total Catastrophe
 
-Aetheria has two game modes with wildly different gameplay styles, co-existing in a shared persistent universe. Play as a corporation to manage production and infrastructure for your galaxy-spanning empire, or play as a freelance pilot and set out to explore the universe and engage in the ever-evolving narrative.
+Investigate strange affairs and divest yourself of stranger fares. In Aetheria: L’appel du Vide you play as Catastrophe “Cat” Marrigan, an out of work private investigator, driving a particularly failure-prone space taxi to make ends meet. Named by prescient parents, it is your fate to trip, trick, sneak, and stumble into the secrets of a displaced people, uncovering the truth of a fantastic journey, the shape of things to come, and exactly what happened to your favourite hat.
