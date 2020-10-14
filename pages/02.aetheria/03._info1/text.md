@@ -4,7 +4,7 @@ image_align: left
 anchors:
     active: true
 tagtitle: h2
-menu: 'Play Your Way'
+menu: 'Catastrophe'
 image: placeholder16-9.png
 ---
 

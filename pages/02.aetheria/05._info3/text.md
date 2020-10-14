@@ -4,8 +4,8 @@ image_align: left
 anchors:
     active: true
 tagtitle: h2
-menu: 'Real Stakes'
-image: placeholder16-9.png
+menu: 'Space'
+image: Aetheria-space.png
 ---
 
 # **A Different Sort of Space**

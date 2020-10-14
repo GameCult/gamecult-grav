@@ -4,7 +4,7 @@ image_align: right
 anchors:
     active: true
 tagtitle: h2
-menu: 'A Living World'
+menu: 'Elysium'
 image: placeholder16-9.png
 ---
 
