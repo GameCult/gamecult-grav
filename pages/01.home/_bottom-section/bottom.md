@@ -5,15 +5,15 @@ social:
     -
         icon: 'fa fa-facebook-official'
         text: Facebook
-        url: 'https://facebook.com'
+        url: 'https://facebook.com/GameCultGames'
     -
         icon: 'fa fa-twitter'
         text: Twitter
-        url: 'https://twitter.com'
+        url: 'https://twitter.com/GameCultGames'
     -
         icon: 'fa fa-instagram'
         text: Instagram
-        url: 'https://instagram.com'
+        url: 'https://instagram.com/gamecultgames'
 anchors:
     active: true
 tagtitle: h2
