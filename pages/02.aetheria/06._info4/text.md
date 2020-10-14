@@ -1,13 +1,13 @@
 ---
-title: 'Aetheria Info 4'
-image: placeholder16-9.png
+title: 'Ship-shape and Up to Specs'
 image_align: right
 anchors:
     active: true
 tagtitle: h2
-menu: A Hostile Universe
+menu: 'A Hostile Universe'
+image: placeholder16-9.png
 ---
 
-# **A Hostile Universe**
+# **Ship-shape and Up to Specs**
 
-Humanity is not welcome here. The more our corporations inevitably exploit their environment, the harder nature fights back. With a diverse native ecosystem, there is no shortage of threats to humanity’s survival. Players must cooperate to extend their existence, even as they compete for supremacy.
+You don't have to be an engineer to design a spaceship, but it sure helps with the wrongful death suits! Engage with our deep ship customization mechanics, where every component has its own personality and every Mega has their own catalogue of parts for sale (and not for sale?). Upgrade your ship, arrange your armaments and accoutrements for maximum efficacy, and fancy up the exterior to suit your tastes. We promise not to judge.
