@@ -1,13 +1,13 @@
 ---
-title: 'Aetheria Info 2'
-image: 'placeholder16-9.png'
+title: 'Welcome to Elysium'
 image_align: right
 anchors:
     active: true
 tagtitle: h2
 menu: 'A Living World'
+image: placeholder16-9.png
 ---
 
-# **A Living World**
+# **Welcome to Elysium**
 
-The economy is dynamic, with corporations run by both players and AI influencing the pricing and availability of goods. New technologies can be researched and new sectors colonized as the economy expands over time. Technological progress, player actions and the state of the economy all affect the availability of narrative arcs within the world.
+Humanity has recently arrived in a brave new galaxy, ready to explore its wonders, exploit its treasures, and return to Earth as harbingers of a new frontier. The 5 megacorporations that funded the journey have each set up their own colonies, and the business of empire-building is booming in a very literal way.
