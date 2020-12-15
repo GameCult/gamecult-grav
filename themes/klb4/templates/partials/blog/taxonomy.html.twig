@@ -1,4 +1,4 @@
-
+{% if page.taxonomy.tag or page.taxonomy.author %}
 <span class="author">
     {% if config.plugins.simplesearch.enabled %}
         {% for author in page.taxonomy.author %}
