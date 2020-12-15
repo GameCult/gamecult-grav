@@ -21,6 +21,7 @@
                 {% block item %}
                     <div class="content-title text-left title-h1h2">
                         {% include 'partials/blog/title.html.twig' with {title_level: 'h1', class_over: 'text-uppercase'} %}
+                        {% include 'partials/blog/date.html.twig' %}
 						{% include 'partials/blog/taxonomy.html.twig' %}
                     </div>
                     {{ page.content|raw }}
