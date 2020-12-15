@@ -1,6 +1,6 @@
 enabled: true
 production-mode: true
-grid-size: grid-md
+grid-size: grid-xl
 layout-list-blog: true
 header-fixed: true
 header-animated: true
