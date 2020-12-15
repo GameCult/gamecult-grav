@@ -23,8 +23,8 @@
                         {% include 'partials/blog/title.html.twig' with {title_level: 'h1', class_over: 'text-uppercase'} %}
                         {% include 'partials/blog/date.html.twig' %}
                     </div>
-                    {{ page.content|raw }}
                     {% include 'partials/blog/taxonomy.html.twig' %}
+                    {{ page.content|raw }}
                 {% endblock %}
                 {% block sidebar %}
                     {% include 'partials/sidebar.html.twig' %}
