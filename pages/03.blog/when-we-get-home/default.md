@@ -5,7 +5,8 @@ publish_date: '14-12-2020 00:00'
 taxonomy:
     category:
         - fiction
-	author: 'Emily Harvey'
+    tag:
+        - aetheria
 anchors:
     active: false
 tagtitle: h2
