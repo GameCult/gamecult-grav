@@ -1,6 +1,12 @@
 ---
 title: 'When We Get Home'
 published: true
+publish_date: '14-12-2020 00:00'
+metadata:
+    author: 'Emily Harvey'
+taxonomy:
+    category:
+        - fiction
 anchors:
     active: false
 tagtitle: h2
