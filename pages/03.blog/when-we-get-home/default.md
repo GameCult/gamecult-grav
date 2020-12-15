@@ -9,6 +9,18 @@ anchors:
     active: false
 tagtitle: h2
 visible: true
+hero_classes: ''
+hero_image: ''
+hero_overlay: '1'
+hero_showsearch: '1'
+content:
+    items: '@self.children'
+    limit: '12'
+    order:
+        by: date
+        dir: desc
+    pagination: '1'
+    url_taxonomy_filters: '1'
 ---
 
 “When we get home,” Lofi says, “I'm going to write a screenflip about all of this.”
