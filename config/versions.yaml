@@ -1,0 +1,6 @@
+core:
+  grav:
+    version: 1.6.30
+    history:
+      version: 1.6.30
+      date: '2020-12-15 03:43:42'
