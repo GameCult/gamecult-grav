@@ -28,7 +28,9 @@ content:
 
 35 YEARS SINCE THE JUMP|21 YEARS UNTIL LANDING.
 
-“I remember the rain”.Baba Yelena always talked about the rain when she got to feeling sentimental. And now, even at the end, she rasped that oft-spoken monologue that was part stream of consciousness and part pure escapism from the metal-and plastic of the colony ship, the *Zvezda*. It was almost like a prayer of sorts.
+“I remember the rain”.
+
+Baba Yelena always talked about the rain when she got to feeling sentimental. And now, even at the end, she rasped that oft-spoken monologue that was part stream of consciousness and part pure escapism from the metal-and plastic of the colony ship, the *Zvezda*. It was almost like a prayer of sorts.
 
 “I remember… the way it smelled. *Ach Bozhe moi*, it smelled like home, I tell you”, Baba Yelena trailed off.
 
