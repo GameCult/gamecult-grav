@@ -5,7 +5,7 @@ anchors:
     active: true
 tagtitle: h2
 menu: 'Catastrophe'
-image: placeholder16-9.png
+image: catastrophe.jpg
 ---
 
 # **Total Catastrophe**

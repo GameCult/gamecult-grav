@@ -5,7 +5,7 @@ anchors:
     active: true
 tagtitle: h2
 menu: 'Elysium'
-image: placeholder16-9.png
+image: elysium.png
 ---
 
 # **Welcome to Elysium**
