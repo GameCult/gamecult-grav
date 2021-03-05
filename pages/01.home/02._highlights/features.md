@@ -16,7 +16,7 @@ features:
     -
         icon: 'fa fa-usd'
         iconcolor: '#454d5d'
-        header: Non-profit
+        header: Not-for-profit
         text: 'We prioritize artistic integrity over selling out'
         target: false
     -
@@ -30,7 +30,13 @@ features:
         icon: 'fa fa-line-chart'
         iconcolor: '#454d5d'
         header: 'Bounty System'
-        text: 'We’ll pay you for helping out'
+        text: 'To the contributors belong the spoils'
+        target: false
+    -
+        icon: 'fa fa-handshake-o'
+        iconcolor: '#454d5d'
+        header: Cooperative
+        text: 'Fully owned by our workers and democratically managed along with our players'
         target: false
 ---
 
