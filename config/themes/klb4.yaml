@@ -38,6 +38,11 @@ header-externallinks:
     text: Discord
     url: 'https://discord.gg/trbteNj'
     target: true
+  -
+    icon: 'fa fa-patreon'
+    text: Patreon
+    url: 'https://www.patreon.com/GameCult'
+    target: true
 analytics_id: null
 custom_logo:
   'user/themes/klb4/images/logo/Gamecult logo.svg':
