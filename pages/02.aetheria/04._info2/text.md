@@ -4,10 +4,10 @@ image_align: right
 anchors:
     active: true
 tagtitle: h2
-menu: 'Elysium'
+menu: Elysium
 image: elysium.png
 ---
 
 # **Welcome to Elysium**
 
-Humanity has recently arrived in a brave new galaxy, ready to explore its wonders, exploit its treasures, and return to Earth as harbingers of a new frontier. The 5 megacorporations that funded the journey have each set up their own colonies, and the business of empire-building is booming in a very literal way.
+Humanity has recently arrived in a brave new galaxy, ready to explore its wonders, exploit its treasures, and return to Earth as harbingers of a new frontier. The 12 megacorporations that funded the journey have each set up their own colonies, and the business of empire-building is booming in a very literal way.
