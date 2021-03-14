@@ -4,10 +4,10 @@ image_align: left
 anchors:
     active: true
 tagtitle: h2
-menu: 'Catastrophe'
+menu: Catastrophe
 image: catastrophe.jpg
 ---
 
-# **Total Catastrophe**
+# **End of the Line**
 
-Investigate strange affairs and divest yourself of stranger fares. In Aetheria: L’appel du Vide you play as Catastrophe “Cat” Marrigan, an out of work private investigator, driving a particularly failure-prone space taxi to make ends meet. Named by prescient parents, it is your fate to trip, trick, sneak, and stumble into the secrets of a displaced people, uncovering the truth of a fantastic journey, the shape of things to come, and exactly what happened to your favourite hat.
+Aetheria: Terminus is the exciting first installment in the Aetheria universe - it is a distilled version of our grand plans for the future delivered in a tidy and challenging rogue-lite format. Your objective is to obtain your freedom by traveling through a hostile, procedurally generated galaxy to reach the enigmatic Terminus. Your path is barred by countless and unpredictable challenges, including several megacorporations who will stop at nothing to end you before you can reach your goal.
