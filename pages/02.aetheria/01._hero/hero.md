@@ -1,5 +1,6 @@
 ---
 title: 'Aetheria Hero'
+media_order: image_058_0000.jpg
 body_classes: 'title-h1h2 header-dark header-transparent'
 anchors:
     active: true
@@ -12,7 +13,7 @@ hero_image: gasgiants.jpg
 ---
 
 # Aetheria
-## L’appel du Vide
+## Terminus
 
 
 
