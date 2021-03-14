@@ -9,7 +9,7 @@ menu: Top
 hero_classes: 'parallax text-light'
 hero_overlay: false
 hero_showsearch: false
-hero_image: gasgiants.jpg
+hero_image: image_058_0000.jpg
 ---
 
 # Aetheria
