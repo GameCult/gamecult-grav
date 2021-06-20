@@ -37,7 +37,8 @@ features:
         iconcolor: '#454d5d'
         header: Cooperative
         text: 'Fully owned by our workers and democratically managed along with our players'
-        target: false
+        url: 'https://wiki.guerrillamediacollective.org/Distributed_Cooperative_Organization_(DisCO)_Governance_Model_V_3.0'
+        target: true
 ---
 
 # Our Ethos
