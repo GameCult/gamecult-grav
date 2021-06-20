@@ -10,8 +10,8 @@ hero_showsearch: false
 hero_image: abstract.jpg
 ---
 
-# GameCult
-## Crafting Joy
+# The World's First Open Source GameDev DisCo
+## Come Join the Party!
 
 
 
