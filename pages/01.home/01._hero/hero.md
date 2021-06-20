@@ -10,8 +10,8 @@ hero_showsearch: false
 hero_image: abstract.jpg
 ---
 
-# We are the world's first cooperative Open Source game studio
-## Join us as we revolutionize game development!
+# GameCult
+## Crafting Joy
 
 
 
