@@ -19,11 +19,6 @@ header-externallinks:
     url: /blog
     target: false
   -
-    icon: 'fa fa-usd'
-    text: GCLP
-    url: /labor-platform
-    target: false
-  -
     icon: 'fa fa-rocket'
     text: Aetheria
     url: /aetheria
