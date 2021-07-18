@@ -17,3 +17,4 @@ redirects: null
 routes: null
 blog:
   route: /blog
+acxtest: TEST
