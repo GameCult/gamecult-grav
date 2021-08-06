@@ -11,7 +11,7 @@ hero_image: abstract.jpg
 ---
 
 # The World's First Open Source GameDev DisCo
-## Come Join the Party!
+## [Come Join the Party!](https://discord.gg/trbteNj)
 
 
 
