@@ -13,7 +13,7 @@ local_repository: null
 repository: 'https://github.com/GameCult/gamecult-grav.git'
 no_user: '0'
 user: rwvens
-password: gitsync-def50200ca9a855f2982b725523f21ed74c2006a3c9fe5c5f67b1d6b408927f6fa0d9669aa1dc39dcc3bead400c76f26b89c0f1ee4354754dbe82cbd67d44ae5ca4893dbae7460224ddc270e3fe6f550d1d348040853f2b5fe15e55f75dbe45faa5f70
+password: gitsync-def50200d6e062a8d71b1067ec3d95e7b589976afe432d7e84aa4f5685b8c65051a50f28e0be3060891d4042592672405c6ef041b0a53a8bfdde2e06afa8a3a5ce2c8eb939e2ca9e219aad08c9038626d781cad3b722b5660e58c5b826956e6a50a9a1
 webhook: /_git-sync-a4eaf04fb55e
 webhook_enabled: '0'
 webhook_secret: 2b74311df12f6ea986bcd907c1ad798b3b37c1ca48d56321
@@ -27,4 +27,7 @@ git:
   name: GitSync
   email: git-sync@trilby.media
   bin: git
+  ignore: null
+  private_key: null
 logging: false
+SyncNotice: null
