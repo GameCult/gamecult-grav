@@ -8,7 +8,7 @@ visible: true
 
 # Welcome, GameCult Initiates
 
-You have arrived at the hallowed sanctum of the GameCult, home of the GameDev Gods, the great creative beings that hail from all over this world. Here, we are benevolent overlords to our players, and in this first act of outreach, we will share with you our knowledge.
+You have arrived at the hallowed sanctum of GameCult, home of the GameDev Gods, the great creative beings that hail from all over this world. Here, we are benevolent overlords to our players, and in this first act of outreach, we will share with you our knowledge.
 
 Now that we got all the cheese out of the way, let’s get to business. 
 
@@ -21,13 +21,11 @@ Now, what does that look like exactly?
 
 # The Model
 
-Our Open Source model allows for players to have a voice in the way our games are developed. Have a cool idea for a mod? Written a killer storyline? Have suggestions for in-game items and loot? All it takes is having, or knowing someone with, the skills to create the additional content and adding it to the game! In fact, you can even get paid for it! Even if you have neither of these things, you can still have a say in what we work on by donating to GameCult and casting your votes via the [GameCult Labor Platform](https://gamecult.games/labor-platform).
+Our Open Source model allows for players to have a voice in the way our games are developed. Have a cool idea for a mod? Written a killer storyline? Have suggestions for in-game items and loot? All it takes is having, or knowing someone with, the skills to create the additional content and adding it to the game!
 
 I can see what you’re thinking; mind powers are only one of the benefits of becoming an adept. You’re thinking, “if your games are open source, aren’t people just going to steal all your work and sell their own version?” This might be true for regular mortals, but our flagship games rely heavily on networked player interactions. Selling your own version is a silly idea for the same reason you can’t just go and make a better Twitter: the existing one has all the users! Nobody’s gonna want to tweet into a void no matter how much better the platform might be. Single player games are a little different; for those we’ll have to use a less-permissive license on some assets. This won’t stop piracy, but then again nothing can.
 
 Now, of course, as a fledgeling company we aren’t able to put all you interested folks (there’s a lot, right? We’re just gonna assume there's a lot) on the payroll just yet. We will be incorporating a bounty system into the GCLP to assign tasks and track who’s added what and this system will open up once we’ve got some cash to share. Still, in the meantime, you can join our Discord or send us an email if you’re interested in helping out! Once we are able to bring the bounty system online, we’ll make sure everyone gets updated. Watch this blog for more info.
-
-Also on the topic of money, it is very important to us that our business conducts itself as openly and transparently as possible, so the GCLP will make all our budgeting and invoicing completely public, similar to the [Open Collective](https://opencollective.com/) platform.
 
 Well, that was a lot of talk about money… Let’s get to the fun part! After all, what’s a game company without games? We currently have three games plus a prequel in the works: Aetheria and its Prequel, Metamorphosis, and CultPong.
 
