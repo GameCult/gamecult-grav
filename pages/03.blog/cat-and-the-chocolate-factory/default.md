@@ -10,11 +10,21 @@ taxonomy:
 anchors:
     active: false
 tagtitle: h2
-media_order: 'main.js,reconstationalphaforfuckssake.js,ink.js'
+media_order: 'main.js,reconstationalphaforfuckssake.js,ink.js,style.css'
 ---
 
 A text-based adventure in the world of Aetheria-Terminus. Play as Cat and navigate all kinds of sugary, delicious, and unpredictably explosive perils as you "volunteer" for a rescue mission into one of Miss Terri's mysterious factories. 
 
+<head>
+    <meta charset="utf-8">
+
+    <title>Cat and the Chocolate Factory</title>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="style.css">
+
+</head>
 <body>
 
     <div class="outerContainer">
