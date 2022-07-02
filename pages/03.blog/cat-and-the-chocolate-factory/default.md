@@ -10,8 +10,32 @@ taxonomy:
 anchors:
     active: false
 tagtitle: h2
+media_order: 'main.js,reconstationalphaforfuckssake.js,ink.js'
 ---
 
 A text-based adventure in the world of Aetheria-Terminus. Play as Cat and navigate all kinds of sugary, delicious, and unpredictably explosive perils as you "volunteer" for a rescue mission into one of Miss Terri's mysterious factories. 
 
-<iframe src="https://itch.io/embed/1598271?linkback=true&amp;bg_color=222222&amp;fg_color=eeeeee&amp;link_color=a65bfa&amp;border_color=363636" width="552" height="167" frameborder="0"><a href="https://nukeproofcakepops.itch.io/cat-and-the-chocolate-factory-aetheria-miniquest">Cat and the Chocolate Factory--An Aetheria MiniQuest by NukeProofCakePops</a></iframe>
+<body>
+
+    <div class="outerContainer">
+        <h3 class="written-in-ink"><a href="https://www.inklestudios.com/ink">WRITTEN IN INK</a></h3>
+
+        <div id="controls" class="buttons">
+          <a id="rewind" title="Restart story from beginning">restart</a>
+          <a id="save" title="Save progress">save</a>
+          <a id="reload" title="Reload from save point">load</a>
+          <a id="theme-switch" title="Switch theme">theme</a>
+        </div>
+
+        <div id="story" class="container">
+            <div class="header">
+                <h1>Cat and the Chocolate Factory</h1>
+                <h2 class="byline"></h2>
+            </div>
+        </div>
+    </div>
+
+    <script src="ink.js"></script>
+    <script src="reconstationalphaforfuckssake.js"></script>
+    <script src="main.js"></script>
+</body>
