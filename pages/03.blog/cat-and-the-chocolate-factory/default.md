@@ -7,7 +7,6 @@ taxonomy:
         - fiction
     tag:
         - aetheria
-media_order: coin_avatar.png
 anchors:
     active: false
 tagtitle: h2
