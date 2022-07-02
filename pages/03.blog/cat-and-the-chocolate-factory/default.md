@@ -16,7 +16,6 @@ media_order: 'main.js,reconstationalphaforfuckssake.js,ink.js,style.css'
 A text-based adventure in the world of Aetheria-Terminus. Play as Cat and navigate all kinds of sugary, delicious, and unpredictably explosive perils as you "volunteer" for a rescue mission into one of Miss Terri's mysterious factories. 
 
 <body>
-    <link rel="stylesheet" href="style.css">
     <div class="outerContainer">
         <h3 class="written-in-ink"><a href="https://www.inklestudios.com/ink">WRITTEN IN INK</a></h3>
 
