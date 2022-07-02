@@ -15,4 +15,4 @@ media_order: 'main.js,reconstationalphaforfuckssake.js,ink.js,style.css,index.ht
 
 A text-based adventure in the world of Aetheria-Terminus. Play as Cat and navigate all kinds of sugary, delicious, and unpredictably explosive perils as you "volunteer" for a rescue mission into one of Miss Terri's mysterious factories. 
 
-<iframe src="/blog/cat-and-the-chocolate-factory/index.html" width="100%" frameborder="no"></iframe>
+<iframe src="/blog/cat-and-the-chocolate-factory/index.html" width="100%" height="100%" frameborder="no"></iframe>
