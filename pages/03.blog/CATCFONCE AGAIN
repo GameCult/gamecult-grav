@@ -1,0 +1,30 @@
+---
+title: 'Cat and the Chocolate Factory'
+published: true
+publish_date: '1-7-2022 00:00'
+taxonomy:
+    category:
+        - fiction
+	author: 'Emily Harvey'
+    tag:
+        - aetheria
+anchors:
+    active: false
+tagtitle: h2
+visible: true
+hero_classes: ''
+hero_image: ''
+hero_overlay: '1'
+hero_showsearch: '1'
+content:
+    items: '@self.children'
+    limit: '12'
+    order:
+        by: date
+        dir: desc
+    pagination: '1'
+    url_taxonomy_filters: '1'
+---
+A text-based adventure in the world of Aetheria-Terminus. Play as Cat and navigate all kinds of sugary, delicious, and unpredictably explosive perils as you "volunteer" for a rescue mission into one of Miss Terri's mysterious factories. 
+
+<iframe src="https://itch.io/embed/1598271?linkback=true&amp;bg_color=222222&amp;fg_color=eeeeee&amp;link_color=a65bfa&amp;border_color=363636" width="552" height="167" frameborder="0"><a href="https://nukeproofcakepops.itch.io/cat-and-the-chocolate-factory-aetheria-miniquest">Cat and the Chocolate Factory--An Aetheria MiniQuest by NukeProofCakePops</a></iframe>
