@@ -5,6 +5,8 @@ anchors:
 tagtitle: h2
 ---
 
+<body>
+
     <div class="outerContainer">
         <h3 class="written-in-ink"><a href="https://www.inklestudios.com/ink">WRITTEN IN INK</a></h3>
 
@@ -26,3 +28,4 @@ tagtitle: h2
     <script src="ink.js"></script>
     <script src="reconstationalphaforfuckssake.js"></script>
     <script src="main.js"></script>
+</body>
