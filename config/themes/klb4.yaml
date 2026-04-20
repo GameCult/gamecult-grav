@@ -40,14 +40,8 @@ header-externallinks:
     target: true
 analytics_id: null
 custom_logo:
-  'user/themes/klb4/images/logo/Gamecult logo.svg':
+  -
     name: 'Gamecult logo.svg'
-    type: image/svg+xml
-    size: 7149
-    path: 'user/themes/klb4/images/logo/Gamecult logo.svg'
 custom_logo_mobile:
-  'user/themes/klb4/images/logo/Gamecult logo.svg':
+  -
     name: 'Gamecult logo.svg'
-    type: image/svg+xml
-    size: 7149
-    path: 'user/themes/klb4/images/logo/Gamecult logo.svg'
